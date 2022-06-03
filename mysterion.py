@@ -19,4 +19,3 @@ try:
     )
 except:
     print('Verifique sua conexão com a internet!')
-
