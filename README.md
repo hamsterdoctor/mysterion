@@ -18,9 +18,7 @@
 
 <h3><p align="center">Version: 4.0</p></h3>
  
-<h2 align="center">📆  Features</h2>
-
-Funções do Mysterion Grabber
+<h2 align="center">🌍 Funções</h2>
 
 - [👾] Pega o Token do Discord
 - [💻] Envia informações do pc 
