@@ -1,3 +1,5 @@
+(Hamster fez este programa!)
+
 Mysterion Grabber
 
 1) Não me responsabilizo pelo mal uso deste software, use apenas para fins educacionais ou testes
