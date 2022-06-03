@@ -47,11 +47,11 @@ Irá ser gerado uma pasta, entre nela, e acharás um arquivo mysterionrename.pyw
 
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/hamsterdoctor"><img style="border-radius: 50%;" src="https://i.postimg.cc/v8zyw3Nt/R.gif" width="100px;" alt=""/><br /><sub><b>@Kiny</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hamsterdoctor"><img style="border-radius: 50%;" src="https://i.postimg.cc/v8zyw3Nt/R.gif" width="100px;" alt=""/><br /><sub><b>@Hamster</b></sub></a><br /></td>
 td>
   </table>
 </div>
  
 <p>
-<img src= ""/>
+<img src= "https://i.postimg.cc/pLdzJGgG/barra-produtos.gif"/>
 </p>
