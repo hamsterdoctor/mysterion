@@ -16,7 +16,7 @@
   <a href="https://github.com/hamsterdoctor/mysterion/blob/main/aviso.txt">Créditos</a> •
 </p>
 
-<h3><p align="center">Version: 4.0</p></h3>
+<h3><p align="center">Versão: 1.0</p></h3>
  
 <h2 align="center">🌍 Funções</h2>
 
@@ -52,6 +52,8 @@ td>
   </table>
 </div>
  
+
+
+<p align="center" ><img alt="" src="https://i.postimg.cc/pLdzJGgG/barra-produtos.gif"></p>
 <p>
-<img src= "https://i.postimg.cc/pLdzJGgG/barra-produtos.gif"/>
-</p>
+
