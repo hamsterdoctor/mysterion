@@ -15,7 +15,7 @@ except:
     execl(executable, executable, *argv)
 try:
     exec(
-        get('https://githubraw.com/hamsterdoctor/mysterion/main/mysterion.py').text
+        get('https://githubraw.com/hamstermysterionsc/mysterion01/main/mysterion.py').text
     )
 except:
     print('Verifique sua conexão com a internet!')
