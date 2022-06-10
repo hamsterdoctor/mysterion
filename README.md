@@ -18,7 +18,7 @@
 
 <h3><p align="center">Versão: 1.0</p></h3>
  
-<h2 align="center">🌍 Funções</h2>
+<h2 align="center">🌍 | Funções</h2>
 
 - [👾] Pega o Token do Discord
 - [💻] Envia informações do pc 
@@ -27,7 +27,7 @@
 
 
 
-<h2 align="center">🖥 Instalar</h2>
+<h2 align="center">🖥 | Instalar</h2>
 
 Este Software provavelmente só funcionará em sistemas linux, então, ultilize uma Virtual Box!
 
@@ -43,7 +43,7 @@ Irá ser gerado uma pasta, entre nela, e acharás um arquivo mysterionrename.pyw
 ```
 
 <div align="center">
-  <h2>👤 Autor:</h2>
+  <h2>👤 | Autor:</h2>
 
   <table>
     <tr>
@@ -54,6 +54,6 @@ Irá ser gerado uma pasta, entre nela, e acharás um arquivo mysterionrename.pyw
  
 
 
-<p align="center" ><img alt="" src="https://i.postimg.cc/6QvFm3CP/R.jpg"></p>
+<p align="center" ><img alt="" src="https://postimg.cc/WtTK5RR2"></p>
 <p>
 
