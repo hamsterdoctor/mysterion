@@ -54,6 +54,6 @@ Irá ser gerado uma pasta, entre nela, e acharás um arquivo mysterionrename.pyw
  
 
 
-<p align="center" ><img alt="" src="https://postimg.cc/WtTK5RR2"></p>
+<p align="center" ><img alt="" src="https://i.postimg.cc/Y2WHqkbm/ff356375-c5fd-49f0-8a28-cfd0bf59f942-2-1-1-1-1-1.gif"></p>
 <p>
 
